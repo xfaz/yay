@@ -2,7 +2,7 @@
 getgenv().Target = true
 
 -- Configuration
-getgenv().Key = Enum.KeyCode.E
+getgenv().Key = Enum.KeyCode.Q
 getgenv().Prediction = 0.178
 getgenv().ChatMode = false
 getgenv().NotifMode = true
